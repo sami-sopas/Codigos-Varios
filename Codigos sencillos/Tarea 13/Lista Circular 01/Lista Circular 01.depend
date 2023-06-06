@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1621963024 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 13\lista circular 01\main.cpp
+	<iostream>
+	"Lista.h"
+
+1621959701 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 13\lista circular 01\src\lista.cpp
+	"Lista.h"
+
+1621963372 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 13\lista circular 01\include\lista.h
+	<iostream>
+
+1621956942 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 13\lista circular 01\main.cpp
+	<iostream>
+	"Lista.h"
+
+1621956174 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 13\lista circular 01\include\lista.h
+	<iostream>
+
+1621952502 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 13\lista circular 01\src\lista.cpp
+	"Lista.h"
+

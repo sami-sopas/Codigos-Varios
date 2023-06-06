@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1621365929 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\main.cpp
+	<iostream>
+	"Cancion.h"
+	"Lista.h"
+
+1621358619 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\src\lista.cpp
+	"Lista.h"
+
+1621365816 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\include\lista.h
+	<iostream>
+
+1621363149 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\src\cancion.cpp
+	"Cancion.h"
+
+1621358619 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\include\cancion.h
+	<iostream>
+	<string>
+
+1621362330 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\main.cpp
+	<iostream>
+	"Cancion.h"
+	"Lista.h"
+
+1621355020 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\include\cancion.h
+	<iostream>
+	<string>
+
+1621362218 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\include\lista.h
+	<iostream>
+
+1621359550 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\src\cancion.cpp
+	"Cancion.h"
+
+1621355020 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 12\lista doblemente enlazada 2\src\lista.cpp
+	"Lista.h"
+
