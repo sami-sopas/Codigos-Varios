@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1618334390 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Poligono.h"
+
+1618331294 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\figuras.cpp
+	"Figuras.h"
+
+1618334035 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\figuras.h
+	<iostream>
+
+1618332427 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\triangulo.cpp
+	"Triangulo.h"
+
+1618331571 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\triangulo.h
+	<iostream>
+	"Figuras.h"
+
+1618332427 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1618331771 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\cuadrado.h
+	<iostream>
+	"Figuras.h"
+
+1618332427 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1618331920 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\rectangulo.h
+	<iostream>
+	"Figuras.h"
+
+1618332392 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\poligono.cpp
+	"Poligono.h"
+
+1618332392 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\poligono.h
+	<iostream>
+	"Figuras.h"
+
+1618327192 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Poligono.h"
+
+1618324372 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\triangulo.h
+	<iostream>
+	"Figuras.h"
+
+1618326836 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\figuras.h
+	<iostream>
+
+1618324572 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\cuadrado.h
+	<iostream>
+	"Figuras.h"
+
+1618324722 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\rectangulo.h
+	<iostream>
+	"Figuras.h"
+
+1618325194 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\include\poligono.h
+	<iostream>
+	"Figuras.h"
+
+1618325228 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1618324096 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\figuras.cpp
+	"Figuras.h"
+
+1618325194 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\poligono.cpp
+	"Poligono.h"
+
+1618325228 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1618327234 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de figuras\src\triangulo.cpp
+	"Triangulo.h"
+

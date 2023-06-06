@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618952501 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 8\pila dinámica\pila dinámica\main.cpp
+	<iostream>
+	"Pila.h"
+
+1618952651 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 8\pila dinámica\pila dinámica\src\pila.cpp
+	"Pila.h"
+
+1618952403 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 8\pila dinámica\pila dinámica\include\pila.h
+	<iostream>
+	<string>
+
+1618945302 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 8\pila dinámica\pila dinámica\main.cpp
+	<iostream>
+	"Pila.h"
+
+1618945204 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 8\pila dinámica\pila dinámica\include\pila.h
+	<iostream>
+	<string>
+
+1618945452 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 8\pila dinámica\pila dinámica\src\pila.cpp
+	"Pila.h"
+

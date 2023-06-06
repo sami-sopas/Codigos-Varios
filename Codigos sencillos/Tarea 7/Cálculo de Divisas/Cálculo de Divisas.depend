@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1618339258 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\main.cpp
+	<iostream>
+	"Peso.h"
+	"Dolar.h"
+	"Euro.h"
+	"Yen.h"
+	"Yuan.h"
+
+1618335242 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\moneda.cpp
+	"Moneda.h"
+
+1618335242 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\moneda.h
+	<iostream>
+
+1618335725 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\peso.cpp
+	"Peso.h"
+
+1618335695 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\peso.h
+	<iostream>
+	"Moneda.h"
+
+1618337529 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\dolar.cpp
+	"Dolar.h"
+
+1618337529 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\dolar.h
+	<iostream>
+	"Moneda.h"
+
+1618337529 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\euro.cpp
+	"Euro.h"
+
+1618337529 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\euro.h
+	<iostream>
+	"Moneda.h"
+
+1618337529 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\yen.cpp
+	"Yen.h"
+
+1618337529 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\yen.h
+	<iostream>
+	"Moneda.h"
+
+1618337547 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\yuan.cpp
+	"Yuan.h"
+
+1618337529 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\yuan.h
+	<iostream>
+	"Moneda.h"
+
+1618332060 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\main.cpp
+	<iostream>
+	"Peso.h"
+	"Dolar.h"
+	"Euro.h"
+	"Yen.h"
+	"Yuan.h"
+
+1618328496 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\peso.h
+	<iostream>
+	"Moneda.h"
+
+1618328044 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\moneda.h
+	<iostream>
+
+1618330330 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\dolar.h
+	<iostream>
+	"Moneda.h"
+
+1618330330 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\euro.h
+	<iostream>
+	"Moneda.h"
+
+1618330330 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\yen.h
+	<iostream>
+	"Moneda.h"
+
+1618330330 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\include\yuan.h
+	<iostream>
+	"Moneda.h"
+
+1618330330 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\dolar.cpp
+	"Dolar.h"
+
+1618330330 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\euro.cpp
+	"Euro.h"
+
+1618328044 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\moneda.cpp
+	"Moneda.h"
+
+1618328526 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\peso.cpp
+	"Peso.h"
+
+1618330330 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\yen.cpp
+	"Yen.h"
+
+1618330348 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 7\cálculo de divisas\src\yuan.cpp
+	"Yuan.h"
+
