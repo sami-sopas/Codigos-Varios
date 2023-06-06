@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648010257 source:c:\users\ramir\onedrive\escritorio\lista doblemente enlazada 1\main.cpp
+	<iostream>
+	"Lista.h"
+
+1648009575 c:\users\ramir\onedrive\escritorio\lista doblemente enlazada 1\lista.h
+	<iostream>
+
