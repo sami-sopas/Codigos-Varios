@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619537894 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 9\cola estática\cola estática\main.cpp
+	<iostream>
+	<windows.h>
+	"Cola.h"
+
+1619535380 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 9\cola estática\cola estática\include\cola.h
+	<iostream>
+	<string>
+
+1619536344 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 9\cola estática\cola estática\src\cola.cpp
+	"Cola.h"
+

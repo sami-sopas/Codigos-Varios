@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1550" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="src\Pila.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1927" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="include\Pila.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="297" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\Pasajero.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1038" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="src\Fecha.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1499" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="src\Pasajero.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="377" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="src\Cola.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Cola.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="297" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\Fecha.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="487" topLine="8" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="main.cpp">
+		<File name="include\Fecha.h" />
+		<File name="src\Fecha.cpp" />
+		<File name="include\Pasajero.h" />
+		<File name="src\Pasajero.cpp" />
+		<File name="include\Pila.h" />
+		<File name="src\Pila.cpp" />
+		<File name="include\Cola.h" />
+		<File name="src\Cola.cpp" />
+		<File name="main.cpp" />
+	</Target>
+</CodeBlocks_layout_file>

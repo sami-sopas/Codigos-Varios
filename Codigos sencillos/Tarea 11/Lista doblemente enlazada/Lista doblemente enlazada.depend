@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620765605 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 11\lista doblemente enlazada\main.cpp
+	<iostream>
+	<string>
+	"Lista.h"
+
+1620760550 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 11\lista doblemente enlazada\src\lista.cpp
+	"Lista.h"
+
+1620764981 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 11\lista doblemente enlazada\include\lista.h
+	<iostream>
+
+1648007262 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 11\lista doblemente enlazada\main.cpp
+	<iostream>
+	<string>
+	"Lista.h"
+
+1620757782 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 11\lista doblemente enlazada\include\lista.h
+	<iostream>
+
+1620753352 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 11\lista doblemente enlazada\src\lista.cpp
+	"Lista.h"
+

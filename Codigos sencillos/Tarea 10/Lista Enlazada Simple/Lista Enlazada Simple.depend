@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1620409609 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	"Nombre.h"
+	"Contacto.h"
+	"Lista.h"
+
+1620409813 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\src\nombre.cpp
+	"Nombre.h"
+
+1620409792 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\include\nombre.h
+	<iostream>
+
+1620409801 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\src\contacto.cpp
+	"Contacto.h"
+
+1620409792 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\include\contacto.h
+	<iostream>
+	<string>
+	"Nombre.h"
+
+1620318845 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\src\lista.cpp
+	"Lista.h"
+
+1620409534 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\include\lista.h
+	<iostream>
+
+1620402410 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	"Nombre.h"
+	"Contacto.h"
+	"Lista.h"
+
+1620402594 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\include\nombre.h
+	<iostream>
+
+1620402594 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\include\contacto.h
+	<iostream>
+	<string>
+	"Nombre.h"
+
+1620402336 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\include\lista.h
+	<iostream>
+
+1620402602 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\src\contacto.cpp
+	"Contacto.h"
+
+1620402614 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\lista enlazada simple\src\nombre.cpp
+	"Nombre.h"
+

@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1620409925 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	"Pasajero.h"
+	"Fecha.h"
+	"Pila.h"
+	"Cola.h"
+
+1620197366 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\pasajero.cpp
+	"Pasajero.h"
+
+1620197300 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\pasajero.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1620230795 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\fecha.cpp
+	"Fecha.h"
+
+1620230795 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\fecha.h
+	<iostream>
+	<string>
+
+1620195087 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\pila.cpp
+	"Pila.h"
+
+1620195087 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\pila.h
+	"Pasajero.h"
+	<iostream>
+
+1620197153 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\cola.cpp
+	"Cola.h"
+
+1620197160 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\cola.h
+	"Pasajero.h"
+	<iostream>
+
+1647107886 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	"Pasajero.h"
+	"Fecha.h"
+	"Pila.h"
+	"Cola.h"
+
+1620190102 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\pasajero.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1620223596 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\fecha.h
+	<iostream>
+	<string>
+
+1620187888 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\pila.h
+	"Pasajero.h"
+	<iostream>
+
+1620189962 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\include\cola.h
+	"Pasajero.h"
+	<iostream>
+
+1620189954 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\cola.cpp
+	"Cola.h"
+
+1620223596 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\fecha.cpp
+	"Fecha.h"
+
+1620190168 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\pasajero.cpp
+	"Pasajero.h"
+
+1620187888 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 10\proyecto aeropuerto\src\pila.cpp
+	"Pila.h"
+
