@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1622672120 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\main.cpp
+	<iostream>
+	"Arbol.h"
+	"Contacto.h"
+
+1622654931 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\src\arbol.cpp
+	"Arbol.h"
+
+1622671908 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\include\arbol.h
+	"Contacto.h"
+	<iostream>
+
+1622654931 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\include\contacto.h
+	<iostream>
+	<string>
+
+1622654931 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\src\contacto.cpp
+	"Contacto.h"
+
+1622670400 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\main.cpp
+	<iostream>
+	"Arbol.h"
+	"Contacto.h"
+
+1622668310 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\include\arbol.h
+	"Contacto.h"
+	<iostream>
+
+1622651332 c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\include\contacto.h
+	<iostream>
+	<string>
+
+1622651332 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\src\arbol.cpp
+	"Arbol.h"
+
+1622651332 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 14\proyecto final 햞bol\src\contacto.cpp
+	"Contacto.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1623166823 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 15\práctica Árbol\src\arbol.cpp
+	"Arbol.h"
+
+1623166823 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 15\práctica Árbol\include\arbol.h
+	"Contacto.h"
+	<iostream>
+
+1623166823 c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 15\práctica Árbol\include\contacto.h
+	<iostream>
+	<string>
+
+1623166823 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 15\práctica Árbol\src\contacto.cpp
+	"Contacto.h"
+	"Contacto.h"
+
+1623168670 source:c:\users\soy_n\onedrive\escritorio\ssp estructura de datos i\tarea 15\práctica Árbol\main.cpp
+	<iostream>
+	"Arbol.h"
+	"Contacto.h"
+
+1623165072 source:c:\users\ramir\onedrive\escritorio\ssp estructura de datos i\tarea 15\práctica Árbol\main.cpp
+	<iostream>
+	"Arbol.h"
+	"Contacto.h"
+
