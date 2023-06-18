@@ -1,0 +1,32 @@
+/* ver cosas del flex https://codepen.io */
+
+.flex{
+    background-color:yellow;
+    flex-direction: column;
+    height: 300px;
+    display: flex; /* tipo de display */
+    justify-content: space-around;
+    /*flex-wrap: wrap; */
+    align-items: flex-end; /*Centra el contenido que tenga el div cuando la altura no se especifica */
+}
+
+.contenido1{
+    background-color: white;
+    /* height: 200px */
+    width: 100px;
+    border:1px solid blue;
+}
+
+.contenido2{
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border:1px solid blue;
+}
+
+.contenido3{
+    background-color: pink;
+    height: 200px;
+    width: 100px;
+    border:1px solid blue;
+}

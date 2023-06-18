@@ -1,0 +1,13 @@
+#boton:hover{ /* Pasar raton por encima */
+    color:white;
+    background-color: greenyellow;
+
+}
+
+#boton::before{
+    content: "Pasa por encima!";
+}
+
+#boton::selection {
+    content:"Hecho";
+}

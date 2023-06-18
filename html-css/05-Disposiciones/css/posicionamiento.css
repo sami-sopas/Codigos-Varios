@@ -1,0 +1,37 @@
+div{
+    border:1px solid gray;
+    padding: 5px;
+    margin:5px;
+}
+
+/* Relativo: Se posiciona en relacion al posicionamiento original */
+.relative{
+    position:relative;
+    left:80px;
+    margin-left: 10px;
+}
+
+/* Fixed (Fijo): no se mueve ni interfiere con otros elementos */
+.fixed{
+    position:fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: yellowgreen;
+    z-index: 10;
+}
+
+/* Se posiciona en funcion de su padre relativo */
+.absoluted{
+    position:absolute;
+    top: 0px;
+    background-color: blue;
+}
+
+/* Pegaso: al hacer scroll modifica su posicion relative->fixed*/
+.sticky{
+    position: sticky;
+    background-color: darksalmon;
+    color:white;
+    top: 0px;
+    z-index: 2;
+}

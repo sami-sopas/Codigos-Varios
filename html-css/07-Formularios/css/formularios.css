@@ -1,0 +1,69 @@
+.input{ /* Le ha estilo a los 2 inputs */
+    width: 100%;
+    padding: 5px 10px;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.input[type="password"] /* le da estilo al input de tipo password */
+{
+    color: red;
+
+}
+
+.input-moderno{
+    border:none; /*Primero eliminamos todos los bordes */
+    border-bottom: 1px solid #c2c2c2; /*Despues añadimos el de abajo  */
+    outline: none; /* Linea que aparece al dar click */
+    padding: 5px;
+    color:#c2c2c2;
+}
+
+.input-moderno::placeholder{ /*Pseudoelemento: Cambia el color */
+    color:#c2c2c2
+
+}
+
+.input-moderno:focus{ /*Pseudoclase: Al dar click en el form, se cambia de color el borde */
+    border-bottom: 1px solid #5f5f5f;
+}
+
+.input-background{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    outline: none;
+    color:white;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.input-background::placeholder{
+    color:rgb(212, 191, 191);
+}
+
+.input-search{
+    padding: 10px;
+    padding-left: 30px;
+    border:none;
+    background-color: #eee;
+    border-radius: 8px;
+    margin:10px;
+    background-image: url(../img/lupa.png); /* Imagen de la lupa */
+    background-repeat: no-repeat;
+    background-position: 5px;
+    background-size: contain;
+    
+}
+
+textarea{
+    resize: horizontal; /* Redimencionar solo de forma horizontal*/
+
+}
+
+select{
+    width: 100%;
+    padding: 15px;
+    background-color: #ccc;
+}

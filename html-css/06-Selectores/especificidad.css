@@ -1,0 +1,22 @@
+/* Especificidad (0 0 0)
+    Tambien se pueden combinar e ir sumando
+*/
+
+#h1-id .h1-clase{ /* 1 0 0 */
+    color:darksalmon;
+}
+
+.h1-clase{ /* 0 1 0 */
+    color:yellow !important;
+}
+
+
+h1{ /* 0 0 1 */
+    color:blue !important; /*Con important superponemos independientemente de la especificidad */
+}
+
+
+
+p{
+    color:red;
+}

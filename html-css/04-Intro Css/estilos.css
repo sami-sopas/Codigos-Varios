@@ -1,0 +1,30 @@
+h1{
+    color:red;
+}
+
+p{
+    color: blue;
+    font-size: 16pt;
+}
+
+#primera-noticia{
+
+    font-size: 12pt;
+}
+#segunda-noticia{
+    font-size: 10pt;
+
+}
+
+.encabezado{
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+*.warning {
+    color:rgb(158, 205, 49);
+}
+
+.autor, .fecha, .ubicacion, h1, #segunda-noticia{
+    text-decoration: underline;
+}

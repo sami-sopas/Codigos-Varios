@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* https://www.w3schools.com/css/css_pseudo_classes.asp */
+
+.hover{
+    width: 300px;
+    height: 100px;
+    background-color: bisque;
+
+}
+
+.hover:hover{ /* Se activa cuando pasa el raton */
+    background-color: burlywood;
+
+}
+
+.listado{
+    padding: 15px;
+    background-color: aquamarine;
+}
+
+.listado p:first-child{ /*Hace referencia al primer hijo, en este caso es p1 */
+    color:white;
+
+}
+
+a:link{ /* Hace referencia a link no visitado */
+    color:deeppink;
+}
+
+a:visited{ /*Hace referencia a link visitado */
+    color:crimson;
+}
+
+a:hover{ /*Hace referencia a pasarle el mouse */
+    color:pink;
+}
+
+a:active{ /* Cuando se hace click cambia el color */
+    color:greenyellow;
+}
