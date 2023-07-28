@@ -1,0 +1,58 @@
+@font-face {
+    font-family: fuenteCinna;
+    src: url(Keepsmile.otf);
+}
+
+body{
+    font-family: fuenteCinna;
+    margin:0;
+}
+
+#links{
+    text-decoration: none;
+    color:rgb(45,42,38);
+}
+
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(187,210,251);
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 110px;
+    margin-right: 10px;
+}
+
+nav a{
+    padding-right: 25px;
+}
+
+nav a:hover{
+    color:white;
+}
+
+.contenedor a{
+    display: flex;
+    align-items: center;
+    color:pink;
+    position: relative;
+    left: 45px;
+    top:60px;
+    margin: 10px;
+    font-size: 40px;
+
+}
+
+.imagen{
+    display: flex;
+    position: absolute;
+    top:120px;
+    right: 120px;
+}
