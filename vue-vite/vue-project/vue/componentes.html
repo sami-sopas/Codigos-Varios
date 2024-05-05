@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Componentes</title>
+</head>
+<body>
+
+    <div id="app"> 
+
+        <div :style="{ fontSize: textSize + 'em' }">
+            <!-- courses esta en el componente principal app, al componente hijo se la pasamos con :course-->
+            <!-- Se escucha tambien al evento y de ahi decimos que accion va ocurrir, (se dispara desde el componente .js), en event se guarda el 0.2 -->
+            <detail-course 
+                @crecer-texto="crecer($event)" 
+                :course="course" 
+                :textsize="textSize" 
+                >
+                <p>cacahuates</p>
+            </detail-course>
+        </div>
+    </div>
+
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="main.js"></script>
+
+    <script>
+
+        app.mount('#app')
+
+    </script>
+</body>
+</html>

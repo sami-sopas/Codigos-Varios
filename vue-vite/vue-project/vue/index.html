@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VUE JS</title>
+
+    <style>
+        .text-black{
+            color: black;
+        }
+
+        .text-red{
+            color: red;
+        }
+
+        .text-green{
+            color: green;
+        }
+
+        .text-blue{
+            color: blue;
+        }
+
+        .margin-top-16{
+            margin-top: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- area de trabajo de vue-->
+    <div id="app">
+        <!-- v-on:click y @click son lo mismo -->
+        <button @click="color = 'red' ">
+            Rojo
+        </button>
+
+        <button @click="color = 'green' ">
+            Verde
+        </button>
+
+        <button @click="color = 'blue' ">
+            Azul
+        </button>
+
+        <!-- actualizar dinamicamente para insertar la clase-->
+        <p v-bind:class=" 'text-' + color">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore incidunt ipsam temporibus. Dolor, totam nihil? Possimus est explicabo iusto unde accusamus porro? Accusamus deserunt blanditiis perferendis quaerat maxime repudiandae iure.</p>
+
+        <button @click="active = !active">
+            <span v-if="active">Desactivar</span>
+            <span v-else>Activar</span>
+        </button>
+
+        <!-- v:bind:class es lo mismo que :class-->
+        <p :class="colorClassComputed" class="margin-top-16">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero a ratione blanditiis molestias error accusantium numquam ab vitae veniam! Similique voluptatem saepe a explicabo quas id eveniet facere, sed consequuntur?</p>
+
+        <!-- Formulario
+            <form action="" v-on:submit.prevent="addCountry()"> Con .prevent, evitamos que el form se envie
+            <label for="">Pais</label>
+            <input type="text" name="" v-model="name">
+            <br>
+            <label for="">Capital</label>
+            <input type="text" name="" v-model="capital">
+            <br>
+
+            <button>
+                Agregar
+            </button>
+        </form>
+
+        <br>
+
+        <ul>
+            <template v-for="(pais,index) in paises" :key="pais.nombre">
+                <li>
+                    {{ index + 1 }} ) {{ pais.name }} - {{ pais.capital }}
+                </li>
+            </template>
+        </ul> -->
+
+        <!-- <button v-on:click="decrement()"> v-on esucha al evento click
+            -
+        </button>
+        {{ counter }}
+        <button v-on:click="increment()">
+            +
+        </button> -->
+    </div>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <script>
+
+        Vue.createApp({
+            data(){
+                return {
+                    color: 'black',
+                    active: true,
+                }
+            },
+            //propiedad computada
+            computed: {
+                colorClassComputed(){
+                    return this.active ? 'text-blue' : 'text-red';
+                }
+            }
+        }).mount('#app')
+        
+        //Formulario
+        /*
+        Vue.createApp({
+            data(){
+                return {
+                    name: "",
+                    capital: "",
+                    paises: [
+                        {
+                            name: "Peru",
+                            capital: "Lima"
+                        },
+                        {
+                            name: "Chile",
+                            capital: "Santiago"
+                        },
+                        {
+                            name: "Argentina",
+                            capital: "Buenos Aires"
+                        }
+                    ]
+                }
+            },
+            methods: {
+                addCountry(){
+                    this.paises.push({
+                        name: this.name,
+                        capital: this.capital
+                    });
+
+                    this.name = "";
+                    this.capital = "";
+                }
+            }
+        }).mount('#app')*/
+
+
+        //Montar la aplicacion, le pasamos el div donde queremos que trabaje
+        /* Contador
+        Vue.createApp({
+            data(){
+                return {
+                    counter: 0,
+                }
+            },
+            //Funciones con la logica
+            methods: {
+                increment() {
+                    this.counter++;
+                },
+                decrement() {
+                    this.counter--;
+                }
+            }
+        }).mount('#app')
+        */
+
+    </script>
+</body>
+</html>
